@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Himeno-Sena258/Himeno-Sena258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<figure><embed src="https://wakatime.com/share/@60b735f6-4c11-42d3-8ea6-8d6fcf2ef71d/78c8ec85-d252-4c28-8e01-f040bb175f17.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@60b735f6-4c11-42d3-8ea6-8d6fcf2ef71d/78c8ec85-d252-4c28-8e01-f040bb175f17.svg)

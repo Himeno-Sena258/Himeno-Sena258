@@ -1,2 +1,5 @@
+第一行：
+<!--START_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@HimenoSena258&hide_title=false&theme=transparent&hide_border=true&layout=compact&langs_count=5&border_radius=15" alt="WakaTime Stats" width="500">
+第二行：
+<!--END_SECTION:waka-->

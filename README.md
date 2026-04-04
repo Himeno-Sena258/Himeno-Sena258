@@ -1,5 +1,3 @@
-第一行：
-<!--START_SECTION:waka-->
 
-第二行：
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
